@@ -1,0 +1,5 @@
+# PubMed_scrapy
+本程序根据指定的作者，爬取所有搜索结果的paper信息
+通过一定简单修改可以完成ncbi上所有paper数据库根据指定搜索字段爬取所有paper信息的功能
+
+由于用到了selenium库因此需要***高版本***的FireFox浏览器，驱动已经放在driver文件夹内
